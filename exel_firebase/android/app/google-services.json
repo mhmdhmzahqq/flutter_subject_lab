@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129730119955",
+    "project_id": "flutter-lab-8ba48",
+    "storage_bucket": "flutter-lab-8ba48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129730119955:android:307e4fc3555054d95d32e6",
+        "android_client_info": {
+          "package_name": "com.example.exel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS627t1NnFepHgs4Yv-bxYtn9BeO9MixY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
